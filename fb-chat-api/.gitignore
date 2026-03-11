@@ -1,0 +1,14 @@
+/fca-unofficial-main (DEMO CODE)
+/node_modules
+appstate.json
+Other Fca Exzample
+tests
+index.js.backup
+*.log
+
+
+index.js.backup
+*.log
+
+
+.npmrc
